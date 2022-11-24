@@ -2,7 +2,7 @@
 
 <p align="center"><img src=".../img/readme/mockup-1.jpg" width="80%"></p>
 
-<h2 align="center"><a  href="https://akkeluck.github.io/womazing-shop/index.html">Demo</a></h2>
+<h2 align="center"><a  href="https://akkeluck.github.io/ai-man">Demo</a></h2>
 
 ## Description
 <table>
