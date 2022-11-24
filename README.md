@@ -16,10 +16,10 @@
 ## Built with 
 
 - [jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee)
-- [Yandex.Maps JavaScript API](https://yandex.ru/dev/maps/jsapi/)
+- [Parallax.js](https://matthew.wagerfield.com/parallax/)
 - [Slick Slider](https://kenwheeler.github.io/slick/)
 
 ## Future scope
 
 - Implement a responsive web design.
-,
+
