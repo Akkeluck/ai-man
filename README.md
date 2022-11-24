@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td>
-  A training project presented as a multipage online store that aims at practicing web development and mastering such skills as HTML, CSS, and JavaScript (JQuery).
+  A training project that aims at practicing web development and mastering such skills as HTML, CSS, and JavaScript (JQuery).
 </td>
 </tr>
 </table>
